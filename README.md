@@ -2,6 +2,6 @@
 Notes from PD Week, July 2026
 
 ## Table of Contents
-- [License](license.md)
-- [Notes](notes.md)
-- [Read Me](readme.md)
+- [License](LICENSE)
+- [Notes](Notes.md)
+- [Read Me](README.md)
