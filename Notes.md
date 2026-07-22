@@ -25,3 +25,4 @@ Inline code `example` here.
 - leetcode
 - bebras challenge
 - advent of code
+- hacktoberfest
