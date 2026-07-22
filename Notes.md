@@ -18,4 +18,4 @@
     console.log('Hello World')
   }
   ```
-Inline code 'example' here.
+Inline code `example` here.
