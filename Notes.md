@@ -27,3 +27,6 @@ Inline code `example` here.
 - advent of code
 - hacktoberfest
 - up for grabs dot net
+
+# Programming Ideas
+- fizz buzz
