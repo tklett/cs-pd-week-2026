@@ -30,3 +30,8 @@ Inline code `example` here.
 
 # Programming Ideas
 - fizz buzz
+
+# copilot steps
+1. develop plan as a readme
+2. create a series of issues to develop the project
+3. always make a branch (usually)
