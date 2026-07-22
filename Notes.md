@@ -19,3 +19,8 @@
   }
   ```
 Inline code `example` here.
+
+# Extension Ideas
+- code wars
+- leetcode
+- bebras challenge
